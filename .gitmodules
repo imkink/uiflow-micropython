@@ -31,3 +31,9 @@
 [submodule "m5stack/cmodules/lv_binding_micropython"]
 	path = m5stack/cmodules/lv_binding_micropython
 	url = https://github.com/lvgl/lv_binding_micropython.git
+[submodule "lib/wiznet"]
+	path = lib/wiznet5k
+	url = https://github.com/andrewleech/wiznet_ioLibrary_Driver.git
+	# Requires https://github.com/Wiznet/ioLibrary_Driver/pull/120
+	# url = https://github.com/Wiznet/ioLibrary_Driver.git
+
